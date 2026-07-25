@@ -35,7 +35,7 @@
     "croner": "^9.1.0",
     "hono": "^4.12.26",
     "octokit": "5.0.5",
-    "valibot": "^1.0.0",
+    "valibot": "^1.4.2",
     "yaml": "^2.9.0"
   },
   "devDependencies": {
